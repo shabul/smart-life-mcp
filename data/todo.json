@@ -1,0 +1,18 @@
+[
+  {
+    "task": "Finish presentation",
+    "done": false
+  },
+  {
+    "task": "Buy groceries",
+    "done": true
+  },
+  {
+    "task": "Workshop with Aaron at 10:30 PM IST",
+    "done": false
+  },
+  {
+    "task": "Attend wedding on Sunday 10:30 AM",
+    "done": false
+  }
+]

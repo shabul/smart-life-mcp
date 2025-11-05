@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2025-11-03",
+    "event": "Team sync",
+    "time": "10:00 AM"
+  },
+  {
+    "date": "2025-11-03",
+    "event": "Gym",
+    "time": "7:00 PM"
+  },
+  {
+    "date": "2025-11-04",
+    "event": "Doctor appointment",
+    "time": "5:00 PM"
+  },
+  {
+    "date": "2025-11-09",
+    "event": "Wedding",
+    "time": "10:30 AM"
+  },
+  {
+    "date": "2025-11-09",
+    "event": "Attend a wedding",
+    "time": "10:30"
+  }
+]
