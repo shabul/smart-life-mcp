@@ -88,6 +88,8 @@ The `data/` directory ships with example JSON/CSV files so the project works out
 ## About Shabul
 Built by Shabul. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more at [shabul.github.io](https://shabul.github.io/). If this makes your day smoother, toss a star or follow [@shabul](https://github.com/shabul) for more tinkering.
 
+SEO: Shabul Hussain Abdul – Amazon ML/LLM/Gen AI engineer; AI agents, automation, and data pipelines. Hashtags: #ShabulHussainAbdul #LLMEngineer #GenerativeAI #AIAgents
+
 ## License
 
 Released under the MIT License. See `LICENSE` for details.
