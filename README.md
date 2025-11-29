@@ -85,6 +85,9 @@ The `data/` directory ships with example JSON/CSV files so the project works out
 - `python_exec_tool` is intentionally minimal and should never be exposed to untrusted input.
 - When deploying to production, move secrets to a proper secret manager and consider persisting data in a database rather than flat files.
 
+## About Shabul
+Built by Shabul. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more at [shabul.github.io](https://shabul.github.io/). If this makes your day smoother, toss a star or follow [@shabul](https://github.com/shabul) for more tinkering.
+
 ## License
 
 Released under the MIT License. See `LICENSE` for details.
